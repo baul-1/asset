@@ -1,0 +1,18 @@
+body{padding: 0px; margin: 0px; font-family: 'Montserrat', sans-serif;}
+	.mainDiv{width: 100%; height: 100%}
+	
+	
+	.loginDiv{height: 300px; width: 400px;  margin: auto; margin-top: 280px; border-radius: 10px; 
+	box-shadow:  0 10px 15px rgba(50,50,90,0.2), 10px 5px 15px rgba(0,0,0,0.07); }
+	.titleDiv{ height: 80px; text-align: center; line-height: 80px; font-size: 25px; }
+	.idDiv{ height: 50px; width:370px; margin:auto; margin-top: 10px;}
+	.pwDiv{  height: 50px; width:370px; margin:auto; margin-top: 10px;}
+	.buttonDiv{border: solid 1px rgb(25, 25, 112); height: 40px; width:365px; margin:auto; margin-top: 30px; font-size:14px; font-weight:700; text-align: center; line-height: 40px; border-radius: 5px; }
+	
+	
+	input{width: 354px; height: 44px; padding-left: 10px; border: solid 1px rgb(220, 220, 220);  }
+	input:focus {outline:none;}
+	
+	
+	
+	.pointer:hover{cursor: pointer;}

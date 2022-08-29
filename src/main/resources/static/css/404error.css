@@ -1,0 +1,13 @@
+#container{
+    padding-top: 30px;
+    border-top : black solid 1px ;	
+    border-bottom : black solid 1px;
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    margin-top: 250px;
+}
+#bu{
+    background: white;
+    border: none;
+}
